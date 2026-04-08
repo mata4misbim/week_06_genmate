@@ -5,6 +5,7 @@ class Drink {
     this.onHand = onHand;
   }
 }
+module.exports = Drink;
 
 module.exports = Drink;
 
